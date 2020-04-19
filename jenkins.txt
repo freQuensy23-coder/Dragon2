@@ -25,12 +25,12 @@
 #
 
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
-1:Dragon2, Dragon2.version
+1:JNH, Dragon2.version, Dragon2
 
 # 3:SOURCEFILE, DESTDIR
 3:Dragon2.version,GameData/JNH
-#3:LICENSE.md,GameData/JNH
-#3:README.md,GameData/JNH
+3:LICENSE.md,GameData/JNH
+3:README.md,GameData/JNH
 
 
 # 6:mod_id
