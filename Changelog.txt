@@ -1,0 +1,25 @@
+Changelog
+
+0.2.0
+	Adoption by Linuxgurugamer
+	Updated all ModuleRCS to ModuleRCSFX, in the following files:
+		BFR.cfg
+		BFRcargo.cfg
+		BFRtank-Copy.cfg
+		BFRtank.cfg
+		Dragon1.2.cfg
+		Dragon1.cfg
+		FalconFTbooster.cfg
+		FalconFTbooster2.cfg
+		FalconFTboosterBlack.cfg
+		FalconFTboosterBlackSideways.cfg
+		FalconFTboosterWhiteSideways.cfg
+		ITSTitan.cfg
+		KerbalizedDragonv2.cfg
+		KerbalizedDragonv2-2.cfg
+	Renamed BFRtank - Copy.cfg to BFRtank2.cfg
+	Rebaned BFRCrewQuarters - Copy.cfg to BFRCrewQuarters2.cfg
+	Renamed all "dragonnosecode2 (1).*" to "dragonNoseCone.*"
+	Updated all breakingForce, breakingTorque, crashTolerance to conform to stock values
+	Converted 6 mbm files to dds
+

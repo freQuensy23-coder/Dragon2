@@ -1,0 +1,35 @@
+-----
+Folder infos : 
+MBM files count : 6
+TGA files count : 0
+PNG files count : 0
+Backup files count : 0
+-----
+-----
+Starting conversion of 6 files.
+    MBM count : 6.
+    TGA count : 0.
+    PNG count : 0.
+0 files excluded, 0 files without mipmaps. 0 files will skip normal detection.0 files will not be resized.
+-----
+LOG : Converting D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\Crew_Quaters_BFR.mbm to D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\Crew_Quaters_BFR.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+---
+LOG : Converting D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\Crew_Quaters_BFRNORM.mbm to D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\Crew_Quaters_BFRNORM.dds
+    Format : Dxt5, normalmap : False, res: 1024x1024
+---
+LOG : Converting D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\DEC_BFR_BodyTest2.mbm to D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\DEC_BFR_BodyTest2.dds
+    Format : Dxt1, normalmap : False, res: 1024x1024
+---
+LOG : Converting D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\falconHeavydecoupler.mbm to D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\falconHeavydecoupler.dds
+    Format : Dxt1, normalmap : False, res: 1024x1024
+---
+LOG : Converting D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\falconHeavydecouplergrey.mbm to D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\falconHeavydecouplergrey.dds
+    Format : Dxt1, normalmap : False, res: 1024x1024
+---
+LOG : Converting D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\Jan_Fairing.mbm to D:\Users\jbb\github\Dragon2\GameData\JNH\Parts\mbm\Jan_Fairing.dds
+    Format : Dxt1, normalmap : False, res: 1024x1024
+---
+-----
+Conversion done! 6 files processed in 1450.92358398438ms.
+-----

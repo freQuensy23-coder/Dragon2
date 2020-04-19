@@ -1,0 +1,21 @@
+{
+  "NAME": "Dragon2",
+  "URL": "http://ksp.spacetux.net/avc/Dragon2",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/Dragon2/releases",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "Dragon2"
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 2,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 8,
+    "PATCH": 0
+  }
+}
+
