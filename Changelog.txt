@@ -1,7 +1,11 @@
 Changelog
 
+0.2.0.1
+	Added source files, thanks @harrisjosh2711
+
 0.2.0
 	Adoption by Linuxgurugamer
+	Added .version file
 	Updated all ModuleRCS to ModuleRCSFX, in the following files:
 		BFR.cfg
 		BFRcargo.cfg
